@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/repository-eternal-app/static/css/main.85b59a3b.css",
+    "main.js": "/repository-eternal-app/static/js/main.b8c0d001.js",
+    "static/js/156.cf3bc410.chunk.js": "/repository-eternal-app/static/js/156.cf3bc410.chunk.js",
+    "static/media/WhatsApp Image 2024-02-28 at 23.32.02_8a2cc56f.jpg": "/repository-eternal-app/static/media/WhatsApp Image 2024-02-28 at 23.32.02_8a2cc56f.0211810bca62f40f7d64.jpg",
+    "static/media/eternal-logo.png": "/repository-eternal-app/static/media/eternal-logo.4dce0aa15d8a03919292.png",
+    "index.html": "/repository-eternal-app/index.html",
+    "main.85b59a3b.css.map": "/repository-eternal-app/static/css/main.85b59a3b.css.map",
+    "main.b8c0d001.js.map": "/repository-eternal-app/static/js/main.b8c0d001.js.map",
+    "156.cf3bc410.chunk.js.map": "/repository-eternal-app/static/js/156.cf3bc410.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85b59a3b.css",
+    "static/js/main.b8c0d001.js"
+  ]
+}
